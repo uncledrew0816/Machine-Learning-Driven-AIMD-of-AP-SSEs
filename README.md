@@ -27,9 +27,3 @@ To run the analysis, the following dependencies are required:
 - scikit-learn
 - ASE (Atomic Simulation Environment)
 - VASP or other DFT/AIMD tools for running simulations
-
-## **Contact**
-For any questions or suggestions, please contact:  
-**Chuang Lin**  
-Northeastern University-China  
-**2410181@stu.neu.edu.cn**
